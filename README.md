@@ -76,7 +76,7 @@ A comprehensive **Exploratory Data Analysis (EDA)** of India's agricultural prod
 - **Time Period**: 1997-98 to 2020-21 (24 years)
 - **Total Records**: 345,407
 - **Crops Analyzed**: 56
-- **Seasons**: 5 (Whole Year, Kharif, Rabi, Monsoon, Winter)
+- **Seasons**: 5 (Whole Year, Monsoon, Winter, Autumn, Summer)
 - **Features**: State, District, Year, Season, Crop, Production, Yield
 - **Data Quality**: No missing values or duplicates
 
@@ -129,16 +129,6 @@ jupyter notebook
 
 ---
 
-## 💡 Recommendations
-
-1. **High-Yield Regional Focus**: Leverage Puducherry's success model
-2. **Crop Specialization**: Promote Coconut in suitable regions
-3. **Seasonal Optimization**: Optimize crop selection by season
-4. **Data Completion**: Update 2020-21 dataset
-5. **Regional Benchmarking**: Establish state-level targets
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -181,19 +171,8 @@ India-Agriculture-Crop-Analysis/
 ## 📞 Contact & Connect
 
 - **GitHub**: [@Vasanth4321](https://github.com/Vasanth4321)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio]
+- **LinkedIn**: [www.linkedin.com/in/vasanth-neeli]
 
 ---
 
 ## ⭐ If Helpful, Please Star This Repository!
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Created**: December 2025 | **Status**: ✅ Complete | **Data Span**: 1997-2021
