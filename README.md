@@ -161,9 +161,8 @@ India-Agriculture-Crop-Analysis/
 
 - Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
-- Python Programming (Pandas, NumPy)
+- Python Programming (Pandas, NumPy, Matplotlib, Seaborn)
 - Data Visualization
-- Statistical Analysis
 - Professional Documentation
 
 ---
